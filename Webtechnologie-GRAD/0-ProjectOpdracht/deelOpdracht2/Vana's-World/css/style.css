@@ -1,0 +1,234 @@
+/*Fonts*/
+.namdhinggo-regular {
+  font-family: "Namdhinggo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.namdhinggo-medium {
+  font-family: "Namdhinggo", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.namdhinggo-semibold {
+  font-family: "Namdhinggo", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.namdhinggo-bold {
+  font-family: "Namdhinggo", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.namdhinggo-extrabold {
+  font-family: "Namdhinggo", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+/*Fonts-End*/
+/*******************************/
+
+
+
+body {
+  box-sizing: border-box;
+  display: grid;
+  grid-template-areas: "aside aside aside aside" "header header header header" "main main main main" "footer footer footer footer";
+  font-family: Namdhinggo;
+  backdrop-filter: brightness(20%);
+}
+/*Home css*/
+/*Algemeen Home*/
+#home-back, #paralax{
+  background: url(../assets/images/JPG/sfeerBeeld-vana-mixing.jpg) no-repeat fixed;
+  background-size:cover;
+}
+span{
+  color: #f437f9 ;
+}
+span:hover:not(#artistName, .prijs){
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: #0B0BB3;
+  color: rgb(180, 31, 180);
+}
+main,footer{
+  width: 75vw;
+  min-width: 50%;
+  margin-inline: auto;
+}
+/*Algemeen Home End*/
+
+button{
+  cursor: pointer;
+}
+/*header*/
+header {
+  color: white;
+  grid-area: header;
+  margin: 1rem 0rem;
+}
+header h1,header nav{
+  padding: 0.8rem;
+  width: fit-content;
+  display: block;
+  margin-inline: auto;
+}
+header h1{
+  font-size: 58px;
+}
+header nav a{
+  margin: 12px;
+  letter-spacing: 0.2rem;
+}
+.active{
+color: red;
+}
+nav a:hover{
+  background:color-mix(in srgb, blue 50%, red 60%);
+  background-clip: text;
+  color: transparent;
+}
+/*header End*/
+
+/*main*/
+main { 
+  display: grid;
+  grid-template-rows: 0.25fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  grid-area: main;
+  color:white;
+}
+#paralax{
+  grid-column: 1/3;
+  max-height: 650px;
+  border-radius: 5% 5% 5% 5%;
+  
+  margin-right: 2rem;
+}
+#bio{
+  
+  word-wrap: break-word;
+  font-weight: 800;
+  grid-column: 1/3;
+}
+#bio h1{
+  font-size: 2rem;
+  text-decoration: underline;
+  text-decoration-color:#fee6fe ;
+}
+#bio p{
+  height: fit-content;
+  width: 95%;
+  font-size: 20px;
+  line-height: 5vh;
+  padding: 0.75rem 0rem;
+}
+#events, #shop{
+  border: solid purple 2px;
+  background-color: pink;
+ 
+}
+#bio,#events{
+  background:linear-gradient(to right, #ffffff,#b729bb,#b729bb,#7b379d);
+  background-clip: text;
+  color: transparent;
+}
+#shop{
+  background:linear-gradient(to right,#b729bb,#ffffff, #b729bb);
+  background-clip: text;
+  color: transparent;
+  
+}
+/*main End*/
+
+
+/*Aside*/
+aside:before,aside section{
+  background-color: grey;
+  backdrop-filter: blur(10px);
+  
+}
+aside{
+  position: sticky;
+  top: 0;
+  color: white;
+  width: 15%;
+  margin-left: auto;
+  height: 5vh;
+  grid-area: aside;
+  opacity: 50%;
+}
+#hamburger{
+  filter: invert(100%);
+  border-radius: 5px;
+}
+#inner-social p{
+  color: white;
+  opacity: ;
+  padding: 1rem;
+  line-height: 2.5ch;
+}
+aside img{
+  filter: invert(100%);
+  padding-bottom: 5px;
+}
+aside img:hover{
+  opacity: 80%;
+  filter:drop-shadow(5px 5px 5px #37f961) invert(100%);
+}
+
+#socials{
+  display: flex;
+  justify-content:space-around;
+}
+#socials img{
+  cursor: pointer;
+  width: 32px;
+}
+/*Aside End*/
+footer {
+  background-color: pink;
+  border: solid black 0.1rem;
+  grid-area: footer;
+}
+/*Home End css*/
+
+/*Contact css*/
+
+#con-back{
+  background-image: url(../assets/images/JPG/IMG-20241020-WA0002.jpg);
+}
+
+.optional:not(#label){
+  color: #f437f9 ;
+}
+
+::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+}
+#contactForm form{
+  display:block;
+  width: 100%;
+}
+#contactForm input[type=text]:focus,#contactForm textarea:focus {
+  background-color: lightblue;
+}
+#contactForm form label{
+  padding-block: 10%;
+}
+#contactForm form input,#contactForm form textarea{
+  color: #f437f9;
+  backdrop-filter: drop-shadow(4px 4px 10px blue);
+  width: 75vw;
+  border: solid grey 1px;
+  border-radius: 5px;
+}
+
+.optional{
+  color: white;
+}
+/*Contact End css*/

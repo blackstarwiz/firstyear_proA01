@@ -1,0 +1,75 @@
+create table Partijen (
+Id int auto_increment primary key,
+Naam varchar(45) not null,
+Hoofdkantoor varchar(45) not null
+);
+
+create table Peilingagentschappen (
+Id int auto_increment primary key,
+Naam varchar(45) not null
+);
+
+create table Politici (
+Id int auto_increment primary key,
+Naam varchar(100) not null,
+Geboortedatum date not null,
+Partijen_Id int not null,
+constraint fk_Politici_Partijen
+foreign key (Partijen_Id)
+references Partijen(Id));
+
+create table Peilingen (
+Id int auto_increment primary key,
+Ongunstig tinyint unsigned not null,
+Matig tinyint unsigned not null,
+Gunstig tinyint unsigned not null,
+Politici_Id int not null,
+Peilingagentschappen_Id int not null,
+constraint fk_Peilingen_Politici
+foreign key (Politici_Id)
+references Politici(Id),
+constraint fk_Peilingen_Peilingagentschappen
+foreign key (Peilingagentschappen_Id)
+references Peilingagentschappen(Id));
+
+insert into Partijen (Naam, Hoofdkantoor)
+values
+('Open VLD', 'Meisensstraat 34 Brussel'),
+('SP.A', 'Keizerslaan 13 Brussel'),
+('N-VA', 'Koningsstraat 47 Brussel');
+
+insert into Politici (Naam, Geboortedatum, Partijen_Id)
+values
+('Patrick Dewael', '1955-10-13', 1),
+('Freya Van den Bossche', '1975-03-26', 2),
+('Bruno Tobback','1969-08-22', 2),
+('Johan Van Overtvelt','1955-08-24', 3);
+
+insert into Peilingagentschappen (Naam)
+values
+('De Morgen'),
+('De Tijd');
+
+insert into Peilingen (Ongunstig,Matig,Gunstig,Politici_Id,Peilingagentschappen_Id)
+values
+(33,12,55,1,1),
+(19,14,67,2,2),
+(30,18,52,3,2),
+(34,16,50,4,1);
+
+multipliciteiten:
+1..*
+1
+1..*
+1
+
+Id voor zowel Categorieen
+Id voor Subcategorieen
+(voor Voedsel is Id hier niet noodzakelijk)
+Subcategorieen_Id in Voedsel
+Categorieen_Id in Subcategorieen
+
+select Voedsel.Naam, WetenschappelijkeNaam, Categorieen.Naam, Subcategorieen.Naam
+from
+Voedsel inner join Subcategorieen on Subcategorieen_Id = Subcategorieen.Id
+inner join Categorieen on Categorieen_Id = Categorieen.Id;

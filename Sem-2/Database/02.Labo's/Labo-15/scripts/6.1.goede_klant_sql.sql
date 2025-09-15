@@ -1,0 +1,1 @@
+SELECT * FROM herhaling_view_procedure.goede_klant;

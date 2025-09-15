@@ -1,0 +1,8 @@
+  [credential]
+    helper = store
+  [user]
+    name = Jason Meulemans
+    email = s116847@ap.be
+  [credential "https://github.com"]
+    username = Work_BlackStar
+    helper = store

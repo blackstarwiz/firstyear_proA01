@@ -1,0 +1,12 @@
+idee onderwerp voor IT organisatie;
+
+
+App die je helpt om sets te creëren
+
+De app is bedoeld om DJ's te helpen bij het samenstellen van sets door data van verschillende API's te integreren, zoals Spotify, Deezer, Apple Music en Beatport.
+
+Gebruikers kunnen alle liedjes selecteren die ze willen gebruiken voor het creëren van een set. Dit proces wordt vereenvoudigd met behulp van notities, pointers (begin- en eindpunten) en effecten (lijstopties).
+
+Via Beatport kan de gebruiker een lijst doorsturen naar het account dat is gekoppeld via de API in de app-instellingen (opstartwaarden). Zo kan hij of zij zien dat de juiste kwaliteit van muziek beschikbaar is en deze aanschaffen.
+
+De pointers kunnen worden opgeslagen als bestand en gebruikt om overgangen te visualiseren tijdens het draaien.

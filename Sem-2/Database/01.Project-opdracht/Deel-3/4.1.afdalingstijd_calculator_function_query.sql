@@ -1,0 +1,1 @@
+select afdalingstijd_calculator(35000,'expert') as afdalingtijd;

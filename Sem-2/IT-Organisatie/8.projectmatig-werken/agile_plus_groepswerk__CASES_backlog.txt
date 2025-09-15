@@ -1,0 +1,40 @@
+CASE 1: Beheerssysteem voor het uitlenen van hardware binnen de AP Hogeschool
+
+link: https://www.ap.be/ict 
+
+eigen requirments (thuis):
+
+1. Aantal studenten en aantal apparatuur
+	1.1 hardware database creeeren 
+	1.2 logica maken voor het uitlenen van hardware
+2. Gebruiks vriendelijke interface maken
+	1.1 portaal maken voor uitleners binnen de APP
+	1.2 portaal gebruikers (studenten) om aanvragen, leen periode, aankoop/afbetaling, verlenging, 		    type, software, aantal enof eigen apparaat te hestellen (bruikleen in tussen tijd)
+	1.3 contact pagina ICT voor reparaties of problemen 
+3. Verschillende formulieren aanvraag apparatuur
+	3.1 lenen van apparatuur formulier
+	3.2 aankoop/afbetaling formulier 
+	3.3 software formulier
+	3.4 eigen of school apparatuur herstel formulier + aanvraag bruikleen apparatuur
+4. Betaal/Contract portaal 
+	4.1 formulier overeenkomst (student verplicht tekenen)
+
+
+CASE 2: Een system voor thermostaatregeling voor thuisgebruik
+
+1. Inputs stats verzamelen
+2. interface gebruiker
+	2.1 temperature kamers
+	2.2 knoppen aan/uit
+	2.3 sliders 0c tot 100c (c is Celsius)
+3.Planner interface
+	3.1 tijdssloten kunnen toevoegen (aan) tot (uit) + bepaalde temperatuur
+	3.2 seizoenen instellen (aanpasbaar voor standard temepratuur binnenshuis tegenover buiten)
+	3.3 (optional) temperatuur aanpassen aan live data van locatie (adres)
+4.App creeeren voor remote controle
+	4.1
+	4.2
+
+CASE 3: Een webaplicatie voor een sportclub naar keuze, met ledenbeheer en wedstrijdinformatie
+
+
