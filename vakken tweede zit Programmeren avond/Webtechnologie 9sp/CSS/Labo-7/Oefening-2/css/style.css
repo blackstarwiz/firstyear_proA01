@@ -1,0 +1,30 @@
+body{
+    padding: 2rem;
+    padding-top: 0rem;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+nav>a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.25rem;
+    padding: 1rem;
+}
+main{
+    background-image: url(../image/texture-plastic.png);
+    background-size: contain;
+    background-repeat: repeat;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.item{
+    flex-basis: 550px;
+    padding: 20px;
+}
+main > .item:nth-child(3),
+main > .item:nth-child(6) {
+    background-color: rgba(74, 177, 58, 0.35);
+    flex-basis: 100%;
+}

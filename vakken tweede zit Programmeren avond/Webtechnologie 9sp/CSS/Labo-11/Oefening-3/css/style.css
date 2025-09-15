@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid green 0.1rem;
+    height: 100vh;
+}
+.square_circle{
+    height: 250px;
+    width: 250px;
+    background-color: red;
+    transition: border-radius 1s ease-out, background-color 1.5s ease-out;
+}
+
+.square_circle:hover{
+    border-radius: 50%;
+    background-color: blue;
+}

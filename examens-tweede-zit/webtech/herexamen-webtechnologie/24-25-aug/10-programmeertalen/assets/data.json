@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Python",
+    "year_created": 1991,
+    "creator": "Guido van Rossum",
+    "paradigms": ["Object-Oriented", "Procedural", "Functional"],
+    "typed": "Dynamically typed",
+    "popularity_rank": 1
+  },
+  {
+    "name": "JavaScript",
+    "year_created": 1995,
+    "creator": "Brendan Eich",
+    "paradigms": ["Event-Driven", "Functional", "Imperative"],
+    "typed": "Dynamically typed",
+    "popularity_rank": 2
+  },
+  {
+    "name": "Java",
+    "year_created": 1995,
+    "creator": "James Gosling",
+    "paradigms": ["Object-Oriented", "Class-Based"],
+    "typed": "Statically typed",
+    "popularity_rank": 3
+  },
+  {
+    "name": "C",
+    "year_created": 1972,
+    "creator": "Dennis Ritchie",
+    "paradigms": ["Procedural", "Structured"],
+    "typed": "Statically typed",
+    "popularity_rank": 4
+  },
+  {
+    "name": "C++",
+    "year_created": 1985,
+    "creator": "Bjarne Stroustrup",
+    "paradigms": ["Object-Oriented", "Procedural", "Generic"],
+    "typed": "Statically typed",
+    "popularity_rank": 5
+  },
+  {
+    "name": "C#",
+    "year_created": 2000,
+    "creator": "Microsoft",
+    "paradigms": ["Object-Oriented", "Component-Oriented"],
+    "typed": "Statically typed",
+    "popularity_rank": 6
+  },
+  {
+    "name": "Go",
+    "year_created": 2009,
+    "creator": "Robert Griesemer, Rob Pike, Ken Thompson",
+    "paradigms": ["Concurrent", "Procedural"],
+    "typed": "Statically typed",
+    "popularity_rank": 12
+  },
+  {
+    "name": "Rust",
+    "year_created": 2010,
+    "creator": "Graydon Hoare",
+    "paradigms": ["Functional", "Imperative", "Concurrent"],
+    "typed": "Statically typed",
+    "popularity_rank": 16
+  },
+  {
+    "name": "PHP",
+    "year_created": 1995,
+    "creator": "Rasmus Lerdorf",
+    "paradigms": ["Imperative", "Object-Oriented", "Functional"],
+    "typed": "Dynamically typed",
+    "popularity_rank": 8
+  },
+  {
+    "name": "TypeScript",
+    "year_created": 2012,
+    "creator": "Microsoft",
+    "paradigms": ["Object-Oriented", "Functional"],
+    "typed": "Statically typed",
+    "popularity_rank": 7
+  }
+]

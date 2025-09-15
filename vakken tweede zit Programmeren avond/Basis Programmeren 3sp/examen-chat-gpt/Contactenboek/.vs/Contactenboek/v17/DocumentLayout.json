@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jason\\OneDrive\\Desktop\\01-PROGRAMMEREN AP 24-25\\vakken tweede zit Programmeren avond\\Basis Programmeren 3sp\\examen-chat-gpt\\Contactenboek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46F6E5BF-DFFC-41CA-A953-20591779E7B1}|Contactenboek\\Contactenboek.csproj|c:\\users\\jason\\onedrive\\desktop\\01-programmeren ap 24-25\\vakken tweede zit programmeren avond\\basis programmeren 3sp\\examen-chat-gpt\\contactenboek\\contactenboek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F6E5BF-DFFC-41CA-A953-20591779E7B1}|Contactenboek\\Contactenboek.csproj|solutionrelative:contactenboek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\OneDrive\\Desktop\\01-PROGRAMMEREN AP 24-25\\vakken tweede zit Programmeren avond\\Basis Programmeren 3sp\\examen-chat-gpt\\Contactenboek\\Contactenboek\\Program.cs",
+              "RelativeDocumentMoniker": "Contactenboek\\Program.cs",
+              "ToolTip": "C:\\Users\\jason\\OneDrive\\Desktop\\01-PROGRAMMEREN AP 24-25\\vakken tweede zit Programmeren avond\\Basis Programmeren 3sp\\examen-chat-gpt\\Contactenboek\\Contactenboek\\Program.cs",
+              "RelativeToolTip": "Contactenboek\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:15:43.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

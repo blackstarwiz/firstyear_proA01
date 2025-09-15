@@ -1,0 +1,63 @@
+.part {
+    width: 100%;
+}
+
+.card {
+    max-width: 700px;
+    height: 500px;
+
+    display: flex;
+    align-items: flex-end;
+
+    background-image: url("../assets/employee-mobile.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.text-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+
+    h4 {
+        margin: 0;
+    }
+
+    p {
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (min-width: 600px){
+    .card{
+        flex-direction:row;
+        background-size: contain;
+        background-position: right top;
+    }
+
+    .text-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 50%;
+    background-color: white;
+    padding: 20px;
+
+    h4 {
+        margin: 0;
+    }
+
+    p {
+        margin-bottom: 0;
+    }
+}
+}

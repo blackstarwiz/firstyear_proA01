@@ -1,0 +1,28 @@
+.part {
+    max-width: 550px;
+    width: 100%;
+}
+
+.container{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.box:nth-child(1){
+    position: relative;
+    left: 0rem;
+}
+.box:nth-child(3){
+    position: relative;
+    right: 0rem;
+}
+
+@media screen and (min-width: 380px) {
+    .box:nth-child(1){
+        left: -5rem;
+    }
+    .box:nth-child(3){
+        right: -5rem;
+    }
+}

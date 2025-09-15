@@ -1,0 +1,41 @@
+body{
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    border: solid black 0.1rem;
+    width: 100%;
+}
+
+nav{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    padding: 1rem;
+}
+a:hover{
+    color: rgba(51, 78, 150, 0.5);
+}
+main{
+    padding-top: 1rem;
+    background-image: url("../image/black-dots.png");
+    background-size: 300px 300px ;
+    background-color: grey;
+
+    background-repeat: repeat;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+figure{
+    font-size: 1.2rem;
+    color: crimson;
+    -webkit-text-stroke: 0.5px black;
+    flex-basis: 30%;
+}

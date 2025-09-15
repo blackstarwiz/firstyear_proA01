@@ -1,0 +1,39 @@
+body{
+    height: 100vh;
+    display: grid;
+    grid-template: 
+    "header header header" 0.1fr
+    "main main main"
+    "footer footer footer"0.2fr;
+}
+
+header{
+    display: flex;
+    justify-content:flex-end;
+    grid-area: header;
+    background-color: rgb(210, 4, 45);
+}
+nav{
+    padding-right: 1em;
+    padding: 1rem;
+    display: flex;
+    gap: 2em;
+}
+main{
+   display: flex;
+   flex-direction: row;
+   grid-area:main;
+}
+.word-circle{
+    stroke-width: 1rem;
+
+}
+footer{
+    font-size: 2rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-area: footer;
+    background-color: rgb(210, 4, 45);
+}

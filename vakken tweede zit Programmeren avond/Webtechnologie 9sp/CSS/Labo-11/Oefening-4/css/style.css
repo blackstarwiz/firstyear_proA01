@@ -1,0 +1,79 @@
+.bitcount-prop-single-dots {
+  font-family: "Bitcount Prop Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 100,
+    "ELXP" 0;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h3{
+    font-family: "Bitcount Prop Single";
+    font-size: 1.75rem;
+}
+.left-text{
+    opacity: 0%;
+}
+div:hover>.left-text{
+    opacity: 100%;
+}
+.top-text{
+    opacity: 0%;
+}
+div:hover>.top-text{
+    opacity: 100%;
+}
+.right-text{
+    opacity: 0%;
+}
+div:hover>.right-text{
+    opacity: 100%;
+}
+div{
+    font-size: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25%;
+    width: 150px;
+    height: 150px;
+}
+.left{
+    transition: all 0.2s ease-out;
+}
+.left:hover{
+    border: solid rgba(0, 0, 0, 0.114) 0.1rem;
+    translate: -30px ;
+    box-shadow: 10px 4px 15px grey;
+    background-color: rgba(222, 222, 222,0.201);
+}
+.top{
+    transition: all 0.2s ease-out;
+}
+.top:hover{
+    border: solid rgba(0, 0, 0, 0.114) 0.1rem;
+    translate: -0px -30px;
+    box-shadow: 2px 20px 15px grey;
+    background-color: rgba(222, 222, 222, 0.201);
+}
+.right{
+    transition: all 0.2s ease-out;
+}
+.right:hover{
+    border: solid rgba(0, 0, 0, 0.114) 0.1rem;
+    translate: 30px -0px;
+    box-shadow: -15px 0px 15px grey;
+    background-color: rgba(222, 222, 222, 0.201);
+}

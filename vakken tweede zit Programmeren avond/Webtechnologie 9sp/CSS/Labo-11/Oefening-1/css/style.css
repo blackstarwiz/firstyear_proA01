@@ -1,0 +1,21 @@
+body{
+    height:100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.rechthoek{
+    background-image: radial-gradient(circle,rgba(63, 94, 251, 1) 0%, rgba(153, 83, 182, 1) 20%, rgba(252, 70, 107, 1) 100%);
+    animation: smallToBig 2s alternate infinite;
+    width: 350px;
+    height: 250px;
+}
+
+@keyframes smallToBig{
+    100%{
+        width: 550px;
+        background-image: radial-gradient(circle,rgba(63, 94, 251, 1) 0%, rgba(153, 83, 182, 1) 35%, rgba(252, 70, 107, 1) 100%);
+    }
+}

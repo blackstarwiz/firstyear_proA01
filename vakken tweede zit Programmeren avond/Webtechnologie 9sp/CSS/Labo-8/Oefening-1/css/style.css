@@ -1,0 +1,104 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+main{
+    padding: 0rem 1rem;
+    display: flex;
+    flex-direction: column;
+}
+main > h1, h2, p{
+    padding-top: 1rem;
+}
+main h1{
+    font-size: 2rem;
+}
+
+main h2{
+    font-size: 1.5rem;
+}
+main ul{
+    margin: 1.5rem 0rem;
+}
+main ul > li{
+    padding: 1rem;
+    text-align: center;
+    background-color: rgb(217, 213, 222);
+    border: solid 0.1rem rgb(190, 181, 201);
+    -webkit-text-stroke: 0.55px black;
+   
+}
+.lijst-1{ 
+    display: flex;
+}
+.lijst-1 li{
+    color: rgb(27, 82, 233);
+    flex-basis: 100%;
+}
+
+.lijst-2 li {
+    color: rgb(34, 177, 2);
+}
+
+.lijst-3 li{
+    color: rgb(0, 221, 255);
+}
+
+.lijst-4 li{
+    color: rgb(228, 228, 0);
+}
+
+.lijst-5 li{
+    color: red;
+}
+
+.lijst-6 li {
+    color: whitesmoke;
+}
+
+@media screen and (min-width: 576px) {
+    .lijst-2{
+        display: flex;
+    }
+    .lijst-2 li {
+        flex-basis: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .lijst-3{
+        display: flex;
+    }   
+    .lijst-3 li{
+        flex-basis: 100%;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .lijst-4{
+        display: flex;
+    }
+
+    .lijst-4 li{
+        flex-basis: 100%;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .lijst-5{
+        display: flex;
+    }
+    .lijst-5 li{
+        flex-basis: 100%;
+    }
+}
+
+@media screen and (min-width:1400px){
+    .lijst-6{
+        display: flex;
+    }
+    .lijst-6 li{
+        background-color: deeppink;
+        flex-basis: 100%;
+    }
+}

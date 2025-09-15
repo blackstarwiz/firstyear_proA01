@@ -1,0 +1,89 @@
+:root{
+    --form-control-color: red;
+}
+
+a.manufacturing-consent-regular {
+  font-family: "Manufacturing Consent", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+    height: 100vh;
+    font-family: "Manufacturing Consent";
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    justify-items: center;
+    align-items: center;
+    background: #d6bda9;
+    background: linear-gradient(90deg, rgba(214, 189, 169, 1) 0%, rgba(128, 104, 78, 1) 33%, rgba(51, 38, 26, 1) 100%);
+}
+
+main{
+    width: 550px;
+    height: fit-content;
+}
+
+form{
+    background-color: white;
+    height: 100%;
+    display: grid;
+    border-radius: 7px;
+    grid-template-columns: 0.3fr 0.5fr;
+    grid-template-rows: 0.8fr 0.2fr 0.8fr 0.2fr 0.5fr;
+}
+
+img{
+    height: 35px;
+    grid-column: 2;
+    width: fit-content;
+}
+
+.inlog-logo{
+    padding: 1rem 0rem;
+    display:flex;
+    align-items: end;
+    gap: 1rem;
+    grid-row: 1;
+    grid-column: 2;
+}
+
+h2{
+    font-size: 1.8rem;
+}
+
+#Vakken{
+    font-size: 1.6rem;
+    display: flex;
+    gap: 1rem;
+    grid-row: 3;
+    grid-column: 2;
+    padding-bottom: 0.3rem;
+    padding-top: 1rem;
+}
+#vak-selecteer{
+    padding: 5px;
+    text-align: center;
+    font-size: 1rem;
+    border: solid currentColor 0.1rem;
+}
+#button-Upload{
+    width: fit-content;
+    align-self: center;
+    height: fit-content;
+    grid-row: 5;
+    grid-column: 2;
+    padding: 0.45rem;
+    background-color: white;
+    border: solid black 0.1rem;
+    border-radius: 7px;
+    font-size: 1.2rem;
+    padding-right: 1rem;
+}
+
+#button-Upload:hover{
+    color: white;
+    background-color:black;
+    border: solid white 0.1rem;
+}

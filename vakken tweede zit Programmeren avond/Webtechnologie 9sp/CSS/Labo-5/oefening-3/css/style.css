@@ -1,0 +1,55 @@
+body{
+    display: grid;
+    position: relative;
+    
+    grid-template-areas: 
+    "aside  header header header"
+    "aside section1 section2 section3"
+    "aside  section1 section2 section3"
+    "aside  main main main"
+    "aside  main main main"
+    "aside  main main main"
+    "aside main main main"
+    "aside  main main main"
+    "aside  main main main"
+    "aside  main main main"
+    "aside main main main"
+    "aside  main main main"
+    "aside  footer footer footer";
+    min-height: 100vh;
+}
+
+header{
+    height:auto;
+    grid-area: header;
+    background-color: rgb(146, 199, 255);
+}
+
+section:nth-child(2){
+    grid-area: section1;
+    background-color: rgb(179, 216, 252);
+}
+
+section:nth-child(3){
+    grid-area: section2;
+    background-color: rgb(95, 134, 175);
+}
+section:nth-child(4){
+    grid-area: section3;
+    background-color: rgb(109, 159, 210);
+}
+aside{
+   
+    grid-area: aside;
+    background-color: rgb(2, 127, 254);
+}
+main{
+
+    grid-area: main;
+    background-color: rgb(125, 169, 213);
+}
+
+footer{
+    grid-area: footer;
+    background-color: rgb(87, 142, 195);
+}

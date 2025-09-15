@@ -1,0 +1,16 @@
+:root {
+    --achtergrond-1: #a786df;
+    --tekst-1: black;
+    --heading-4: #ffc107;
+}
+
+.container {
+    display: flex;
+    gap: 1rem;
+}
+
+.box:nth-child(odd){
+    background-color: var(--achtergrond-1);
+    color: var(--tekst-1);
+}
+

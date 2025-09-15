@@ -1,0 +1,14 @@
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\obj\Debug\net8.0\Contactenboek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\obj\Debug\net8.0\Contactenboek.AssemblyInfoInputs.cache
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\obj\Debug\net8.0\Contactenboek.AssemblyInfo.cs
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\obj\Debug\net8.0\Contactenboek.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\bin\Debug\net8.0\Contactenboek.exe
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\bin\Debug\net8.0\Contactenboek.deps.json
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\bin\Debug\net8.0\Contactenboek.runtimeconfig.json
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\bin\Debug\net8.0\Contactenboek.dll
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\bin\Debug\net8.0\Contactenboek.pdb
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\obj\Debug\net8.0\Contactenboek.dll
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\obj\Debug\net8.0\refint\Contactenboek.dll
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\obj\Debug\net8.0\Contactenboek.pdb
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\obj\Debug\net8.0\Contactenboek.genruntimeconfig.cache
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\vakken tweede zit Programmeren avond\Basis Programmeren 3sp\examen-chat-gpt\Contactenboek\Contactenboek\obj\Debug\net8.0\ref\Contactenboek.dll

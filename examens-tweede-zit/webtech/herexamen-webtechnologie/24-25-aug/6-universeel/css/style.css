@@ -1,0 +1,10 @@
+.container {
+    border: 1px solid black;
+    padding: 16px;
+}
+
+
+.container > *{
+    padding: 5px;
+    background-color: var(--color-ternary);
+}

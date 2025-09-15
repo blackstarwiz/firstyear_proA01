@@ -1,0 +1,105 @@
+.manufacturing-consent-regular {
+  font-family: "Manufacturing Consent", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+    height: 100vh;
+    font-family: "Manufacturing Consent";
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    justify-items: center;
+    align-items: center;
+    background: #d6bda9;
+    background: linear-gradient(90deg, rgba(214, 189, 169, 1) 0%, rgba(128, 104, 78, 1) 33%, rgba(51, 38, 26, 1) 100%);
+}
+
+main{
+    width: 400px;
+    height: fit-content;
+}
+
+form{
+    background-color: white;
+    height: 100%;
+    display: grid;
+    border-radius: 7px;
+    grid-template-columns: 1fr 0.1fr 1fr;
+    grid-template-rows: 1fr 0.5fr 0.5fr 0.5fr 0.7fr 0.5fr 0.7fr 0.4fr;
+}
+
+img{
+    height: 35px;
+    grid-column: 2;
+    width: fit-content;
+}
+
+.inlog-logo{
+    padding: 1rem 0rem;
+    display:flex;
+    align-items: end;
+    gap: 1rem;
+    grid-row: 1;
+    grid-column: 2;
+}
+
+h2{
+    font-size: 1.8rem;
+}
+
+input{
+    height: fit-content;
+    background-color: whitesmoke;
+}
+
+label{
+    font-size: 1.2rem;
+}
+
+form label:first-of-type{
+    grid-row: 2;
+    grid-column: 2;
+}
+
+form input:first-of-type{
+    grid-row: 3;
+    grid-column: 2;
+}
+
+form label:last-of-type{
+    grid-row: 4;
+    grid-column: 2;
+    align-self: end;
+}
+
+form input:nth-child(5){
+    grid-row: 5;
+    grid-column: 2;
+    align-self: end;
+}
+
+#text-gebruikersnaam, #text-wachtwoord{
+    padding: 0.45rem;
+    border-radius: 7px;
+    border: solid 0.1rem rgb(152, 152, 143);
+}
+
+form input:last-of-type{
+    font-size: 1.4rem;
+    grid-row: 7;
+    grid-column: 2;
+}
+#button-inloggen{
+    padding: 0.45rem;
+    background-color: white;
+    border: solid black 0.1rem;
+    border-radius: 7px;
+}
+#button-inloggen:hover{
+    color: white;
+    background-color:black;
+    border: solid white 0.1rem;
+}
+

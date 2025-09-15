@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    gap: 1rem;
+}
+
+.box {
+    transform: rotate(0deg);
+    transition: transform 250ms ease-in-out;
+}
+.box:hover {
+    transform: rotate(40deg);
+    transition: transform 250ms ease-in-out;
+}

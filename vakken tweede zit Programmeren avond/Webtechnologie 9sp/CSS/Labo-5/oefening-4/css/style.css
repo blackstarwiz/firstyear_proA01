@@ -1,0 +1,35 @@
+body{
+    height: 100vh;
+}
+
+article{
+    font-size: 18px;
+    height: 100px;
+    padding: 1rem;
+    text-align: center;
+    border: solid black 0.1rem;
+}
+body > main > article:nth-child(1){
+    color: white;
+    background-color: rgb(52, 152, 218);
+}
+main{
+    padding: 0.5rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+main > article:nth-child(even){
+    color: white;
+    background-color: rgb(35, 179, 95);
+}
+main > article:nth-child(odd){
+    color: black;
+    background-color: rgb(240, 197, 14);
+}
+
+main > article:last-child{
+    color: white;
+    background-color: brown;
+}

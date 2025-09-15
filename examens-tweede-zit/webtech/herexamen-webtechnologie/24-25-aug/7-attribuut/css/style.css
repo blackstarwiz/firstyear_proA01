@@ -1,0 +1,11 @@
+.container div {
+    margin: 5px;
+}
+
+input {
+    font-family: cursive;
+}
+
+.container div > input{
+    font-family:"monospace", Impact, Haettenschweiler, sans-serif, Courier New;
+}

@@ -1,0 +1,198 @@
+/*--- algemeen ---*/
+html,
+body {
+  /*border-box vertelt de browser rekening te houden met eventuele marging en padding in de waarden die opgegeven worden omtrent de breedte en hoogte van een element. Als je de breedte van een element instelt op 100 pixels, omvat die 100 pixels de eventuele marging of padding die aan het element werd toegevoegd, en wordt het inhoudsvak kleiner om die extra breedte mee in te calculeren.*/
+  box-sizing: border-box;
+  background-color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+  width: 100vw;
+}
+
+body {
+  display: grid;
+  grid-template-areas:
+    "header header header"
+    "nav    nav    nav"
+    "main   main   aside"
+    "footer footer footer";
+}
+
+/*--- titels & tekst ---*/
+h1, h2, h3 {
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  text-align: left;
+}
+
+h1 {
+  font-size: 2rem;
+  padding-bottom: 2rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+  padding: 2rem 0 1rem 0;
+}
+
+h3 {
+  font-size: 1rem;
+}
+
+aside h2 {
+  color: #7d7d7d;
+  font-size: 0.8rem;
+  letter-spacing: 0.2rem;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  padding-bottom: 1rem;
+  text-align: left;
+  color: #232226;
+}
+
+/*--- header ---*/
+header {
+  grid-area: header;
+  margin-top: 2rem;
+}
+header img {
+  display: block;
+  /* Door voor margin "0 auto" te gebruiken zal de afbeelding in het middan van het scherm gplaatst worden. */ 
+  margin: 0 auto;
+}
+
+/*--- navigatie ---*/
+nav {
+  grid-area: nav;
+  display: inline-block;
+  padding: 2rem 0;
+  border-bottom: 1px solid #7d7d7d;
+  margin: 0 2rem 1rem 2rem;
+}
+
+nav > ul {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  vertical-align: top;
+}
+nav > ul > li {
+  list-style: none;
+  display: inline-block;
+}
+nav > ul > li > a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #7d7d7d;
+  font-size: 0.8rem;
+  letter-spacing: 0.2rem;
+  margin: 4rem 1rem 0 0;
+}
+
+nav ul li a:hover, .active {
+  letter-spacing: 0.25rem;
+  font-weight: bold;
+  color: #e60005;
+}
+
+/*--- main ---*/
+main {
+  grid-area: main;
+  padding: 2rem 1rem 2rem 2rem;
+}
+
+.intro {
+  background-color: #f59c00;
+  padding: 2rem;
+}
+.intro h1 {
+  font-size: 1.75rem;
+  color: #fff;
+}
+.intro p {
+  font-size: 1.4rem;
+  line-height: 140%;
+  text-align: left;
+  color: #fff;
+}
+
+.intro img {
+    width: 100%;
+  }
+
+main img {
+  float: left;
+  width: 50%;
+  padding: 0 1.5rem 1rem 0;
+}
+
+.info {
+  padding: 2rem 0;
+}
+
+.info ul li {
+  color: #232226;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  list-style: inside;
+}
+
+a {
+  text-decoration: none;
+  color: #232226;
+}
+
+blockquote {
+  width: 100%;
+  padding: 2rem;
+  font-style: italic;
+  line-height: 2rem;
+  color: #232226;
+  background-color: #efefef;
+  letter-spacing: 0.1rem;
+  padding-bottom: 2rem;
+}
+
+/*--- aside ---*/
+aside {
+  grid-area: aside;
+  padding: 2rem 1rem;
+}
+
+aside img a {
+  padding: 0 1rem 1rem 0;
+}
+
+.button {
+  display: inline-block;
+  background-color: #efefef;
+  color: #7d7d7d;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.2rem;
+  margin: 1rem 0 1rem 0;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+.button:hover {
+  background-color: #e60005;
+  color: #fff;
+}
+
+/*--- footer ---*/
+footer {
+  grid-area: footer;
+  background-color: #e60005;
+  margin-top: 2rem;
+}
+
+footer p, footer p a {
+    color: white;
+    font-size: 0.8rem;
+    padding: 2rem 0 2rem 0;
+    text-align: center;
+  }

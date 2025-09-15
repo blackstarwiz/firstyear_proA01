@@ -1,0 +1,41 @@
+body{
+    display: grid;
+    grid-template-areas: 
+    "a a a a"
+    "b b b c"
+    "d d d d";
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+}
+
+
+header{
+    grid-area: a;
+    display: grid;
+    grid-template-columns: repeat(1fr);
+    grid-template-rows: repeat(1fr);
+    padding: 5px;
+    background-color: rgb(145, 199, 254);
+}
+nav{
+    grid-column: 8/10;
+    grid-row: 5;
+    height: fit-content;
+    padding: 5px;
+    background-color: rgb(179, 217, 251);
+}
+main{
+    grid-area: b;
+    padding: 5px;
+    background-color: rgb(124, 169, 212);
+}
+aside{
+    grid-area: c;
+    padding: 5px;
+    background-color: rgb(2, 127, 253);
+}
+footer{
+    grid-area: d;
+    padding: 5px;
+    background-color: rgb(86, 142, 195);
+}

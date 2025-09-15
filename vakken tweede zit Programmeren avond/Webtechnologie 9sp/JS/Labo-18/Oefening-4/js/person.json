@@ -1,0 +1,10 @@
+{
+  "firstname": "Jurgen",
+  "lastname": "Vervoort",
+  "age": 27,
+  "city": "Heist-op-den-Berg",
+  "street": "Bergstraat",
+  "number": "17c",
+  "postal": 2220,
+  "hobbies": ["voetbal", "tafeltennis", "vissen"]
+}
