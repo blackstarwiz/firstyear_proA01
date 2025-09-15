@@ -1,0 +1,12 @@
+[submodule "Sem-1/Basis-Programmeren"]
+	path = Sem-1/Basis-Programmeren
+	url = https://gitlab.apstudent.be/s116847/basisprogammeren.git
+[submodule "Sem-1/IT-Essentials-GRAD/ExtraLes/User1"]
+	path = Sem-1/IT-Essentials-GRAD/ExtraLes/User1
+	url = https://gitlab.apstudent.be/s116847/it-essantials.git
+[submodule "Sem-1/IT-Essentials-GRAD/ExtraLes/User2/testrepo"]
+	path = Sem-1/IT-Essentials-GRAD/ExtraLes/User2/testrepo
+	url = https://gitlab.apstudent.be/s116847/it-essantials.git
+[submodule "Sem-1/IT-Essentials-GRAD/GitLab-myFirstProject"]
+	path = Sem-1/IT-Essentials-GRAD/GitLab-myFirstProject
+	url = https://gitlab.apstudent.be/s116847/it-essantials.git
