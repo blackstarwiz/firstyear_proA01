@@ -1,0 +1,23 @@
+User1:
+1. git remote add origin https://gitlab.apstudent.be/s116847/testrepo.git
+2. git add .\Hello.txt
+3. git commit -m "messages-text"
+4. git log (gegevens van alles dat binnen deze map is commit)
+5. git push origin main (origin): https link naar repo, (main): op de mainbranch van onze repo
+
+User2:
+1. git clone https://gitlab.apstudent.be/s116847/testrepo.git
+2. git add .\Hello.txt
+3. git commit -m  "hallo van user2"
+4. git push origin main
+
+User1 (Pull/alles binnentrekken van aanpassingen)
+1. git pull origin main
+2. 
+
+
+
+Conflict Regels op de zelfde lijn aanpassen
+1. git add  .
+2. git commit -m "Ill change something too"
+3. git push origin main -->> probleem als je de 

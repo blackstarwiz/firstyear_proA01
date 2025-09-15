@@ -1,0 +1,211 @@
+map;route;length (km);elevation (m);duration (min);bike;event only;badge;xp;completed
+Watopia;2022 Bambino Fondo;52.3;400;;;yes;no;;no
+Watopia;2022 Gran Fondo;94;1141;;;yes;no;;no
+Watopia;2022 Medio Fondo;77.2;924;;;yes;no;;no
+Watopia;Accelerate to Elevate;41.3;1152;< 90;;no;yes;825;yes
+Watopia;Beach Island Loop;13;49;< 60;aero;no;yes;225;yes
+Watopia;Bambino Fondo;52.1;581;;;yes;no;;no
+Watopia;Big Flat 8;29.2;89;;;no;yes;580;yes
+Watopia;Big Foot Hills;66.9;714;> 90;aero;no;yes;1340;yes
+Watopia;Big Loop;43.1;663;> 90;;no;yes;840;yes
+Watopia;Big Loop Reverse;42.8;662;;;yes;no;;no
+Watopia;Bigger Loop;53.7;692;> 90;;no;yes;1060;yes
+Watopia;Canopies and Coastlines;27.5;246;< 60;;no;yes;444;yes
+Watopia;Climber’s Gambit;28;671;> 90;;no;yes;600;yes
+Watopia;Coast Crusher;42.4;208;< 90;;no;yes;684;yes
+Watopia;Coastal Crown Loop;20.6;258;< 30;;no;yes;300;yes
+Watopia;Downtown Titans;25.4;295;< 90;;no;yes;490;yes
+Watopia;Dust In The Wind;52.5;583;> 90;;no;yes;1080;yes
+Watopia;Eastern Eight;54;412;> 90;;no;yes;1345;yes
+Watopia;Elevation Evaluation;24.6;396;< 60;;no;yes;490;yes
+Watopia;Figure 8;30.2;255;> 90;aero;no;yes;580;yes
+Watopia;Figure 8 Reverse;29.9;254;> 90;aero;no;yes;580;yes
+Watopia;Flat Route;10.7;62;< 60;aero;no;yes;200;yes
+Watopia;Flat Route Reverse;10.5;61;;aero;yes;no;;no
+Watopia;Four Horsemen;90.4;2111;> 90;;no;yes;1780;no
+Watopia;Glyph Heights;33.4;618;< 60;;no;yes;510;yes
+Watopia;Going Coastal;16.5;63;< 30;;no;yes;308;yes
+Watopia;Gran Fondo;97.2;1148;;;yes;no;;no
+Watopia;Handful of Gravel;10.4;94;;gravel;yes;yes;125;no
+Watopia;Hilly Route;9.7;109;< 30;aero;no;yes;180;yes
+Watopia;Hilly Route Reverse;9.4;109;;aero;yes;yes;180;no
+Watopia;Itza Climb Finish;31;239;< 90;;no;yes;600;yes
+Watopia;Itza Party;46.2;507;< 60;;no;yes;920;yes
+Watopia;Jungle Circuit;13.5;92;< 60;;no;yes;260;yes
+Watopia;Jungle Circuit Reverse;14.2;106;;;yes;no;;no
+Watopia;Jurassic Coast;19.5;212;;;no;yes;386;yes
+Watopia;Legends and Lava;24.7;352;< 90;;no;yes;490;yes
+Watopia;Loop de Loop;12.4;145;;;no;yes;245;yes
+Watopia;Mayan 8;23.1;241;;;no;yes;460;yes
+Watopia;Mayan Mash;34.6;755;< 60;;no;yes;700;yes
+Watopia;Mayan San Remo;21.4;219;< 30;;no;yes;420;yes
+Watopia;Medio Fondo;72.6;981;;;yes;no;;no
+Watopia;Mountain 8;32.7;692;> 90;;no;yes;640;yes
+Watopia;Mountain Mash;6;335;;;no;yes;116;yes
+Watopia;Mountain Route;30.2;683;> 90;;no;yes;580;yes
+Watopia;Muir And The Mountain;39.2;914;> 90;;no;yes;680;yes
+Watopia;Navig8;63.9;417;;;no;yes;1280;yes
+Watopia;Ocean Lava Cliffside Loop;19.2;156;< 60;;no;yes;380;yes
+Watopia;Oh Hill No;7.9;306;< 30;;no;yes;160;yes
+Watopia;Out And Back Again;42.2;334;> 90;;no;yes;840;yes
+Watopia;Peak Performance;46.3;728;< 90;;no;yes;920;yes
+Watopia;Power to the Tower;45.3;1496;;;no;yes;900;yes
+Watopia;Quatch Quest;46.8;1706;> 90;;no;yes;920;yes
+Watopia;Repack Rush;2.8;27;;;yes;no;;no
+Watopia;Radio Rendezvous;20.5;736;;;no;yes;410;yes
+Watopia;Road to Ruins;30.2;276;> 90;gravel;no;yes;580;yes
+Watopia;Road To Ruins Reverse;29.8;275;;gravel;yes;no;;no
+Watopia;Road to Sky;17.6;1046;> 90;light;no;yes;380;yes
+Watopia;Sand And Sequoias;22.4;180;< 90;;no;yes;400;yes
+Watopia;Seaside Sprint;9.3;83;;aero;yes;no;;no
+Watopia;Serpentine 8;26.7;239;< 90;gravel;no;yes;385;yes
+Watopia;Shorelines and Summits;50.1;793;< 90;;no;yes;924;yes
+Watopia;Snowman;44;578;< 90;;no;yes;880;yes
+Watopia;Spiral Into the Volcano;55.6;324;;;no;yes;1030;yes
+Watopia;Sugar Cookie;39;258;< 60;;no;yes;660;yes
+Watopia;Temple Trek;10.4;42;< 30;;no;yes;128;yes
+Watopia;Tempus Fugit;19.6;32;< 60;aero;no;yes;380;yes
+Watopia;The Big Ring;48.9;268;< 90;;no;yes;977;yes
+Watopia;The Magnificent 8;29.1;155;;aero;yes;no;;no
+Watopia;The Mega Pretzel;111;1659;> 90;;no;yes;2140;no
+Watopia;The Pretzel;73;1361;> 90;;no;yes;1440;no
+Watopia;The Uber Pretzel;128.8;2381;> 90;;no;yes;2560;no
+Watopia;Three Little Sisters;38.4;438;> 90;aero;no;yes;755;yes
+Watopia;Three Sisters;48.5;896;> 90;;no;yes;950;yes
+Watopia;Three Sisters Reverse;45.9;883;;;yes;no;;no
+Watopia;Tick Tock;19.1;59;< 60;aero;no;yes;388;yes
+Watopia;Tides and Temples;36.5;460;< 90;;no;yes;730;yes
+Watopia;Tour of Fire and Ice;29.1;1184;> 90;;no;yes;500;yes
+Watopia;Triple Flat Loops;36.3;162;> 90;aero;no;yes;680;yes
+Watopia;Two Bridges Loop;7.3;81;< 30;;no;yes;140;yes
+Watopia;Volcano Circuit;6.9;40;< 30;;no;yes;80;yes
+Watopia;Volcano Circuit CCW;8.9;50;< 30;;no;yes;80;yes
+Watopia;Volcano Climb;23.3;204;< 90;;no;yes;460;yes
+Watopia;Volcano Climb After Party;40.3;285;;;yes;no;;no
+Watopia;Volcano Flat;12.8;51;< 60;;no;yes;240;yes
+Watopia;Volcano Flat Reverse;12.6;50;;;yes;no;;no
+Watopia;Watopia’s Waistband;27.7;101;< 60;aero;no;yes;555;yes
+Watopia;WBR Climbing Series;43.7;1116;;;yes;no;;no
+Watopia;Whole Lotta Lava;17.1;190;< 60;;no;yes;240;yes
+Watopia;Zwift Games 2024 Epic;79.6;878;;;no;yes;1594;yes
+Makuri Islands;Bridges and Broadwalks;8.3;70;< 30;aero;no;yes;125;yes
+Makuri Islands;Castle Crit;3.5;41;;;no;yes;69;yes
+Makuri Islands;Castle to Castle;23.2;141;< 90;aero;no;yes;460;yes
+Makuri Islands;Chain Chomper;16;189;< 60;light;no;yes;270;yes
+Makuri Islands;Chasing the Sun;35.1;316;< 90;;no;yes;690;yes
+Makuri Islands;Country to Coastal;33.6;280;< 60;aero;no;yes;665;yes
+Makuri Islands;Countryside Tour;16.1;185;< 60;aero;no;yes;310;yes
+Makuri Islands;Electric Loop;9;42;< 30;aero;no;yes;170;yes
+Makuri Islands;Farmland Loop;8;58;< 30;aero;no;yes;155;yes
+Makuri Islands;Fine and Sandy;10.8;78;< 30;;no;yes;210;yes
+Makuri Islands;Flatland Loop;13.1;100;< 30;aero;no;yes;260;yes
+Makuri Islands;Island Hopper;18.1;130;< 60;aero;no;yes;360;yes
+Makuri Islands;Island Outskirts;11.5;92;< 30;aero;no;yes;225;yes
+Makuri Islands;Kappa Quest;12.9;261;< 60;gravel;no;yes;180;yes
+Makuri Islands;Kappa Quest Reverse;14.2;270;< 60;gravel;no;yes;180;yes
+Makuri Islands;Makuri 40;40.3;313;< 90;aero;no;yes;800;yes
+Makuri Islands;Makuri Pretzel;78.7;620;;;no;yes;1550;no
+Makuri Islands;Mech Isle Loop;4.1;40;< 30;aero;no;yes;80;yes
+Makuri Islands;Neokyo All-Nighter;24.6;168;< 60;;no;yes;485;yes
+Makuri Islands;Neokyo Crit Course;4.7;24;;aero;yes;yes;90;no
+Makuri Islands;Neon Flats;15;72;< 60;;no;yes;290;yes
+Makuri Islands;Railways and Rooftops;8.4;92;< 30;;no;yes;120;yes
+Makuri Islands;Rooftop Rendezvous;6.7;82;< 30;;no;yes;74;yes
+Makuri Islands;Sea to Tree;3.8;121;< 30;gravel;no;yes;65;yes
+Makuri Islands;Shisa Shakedown;53.3;557;;;yes;yes;985;no
+Makuri Islands;Sleepless City;9.6;42;< 30;;no;yes;185;yes
+Makuri Islands;Spirit Forest;13.1;257;< 60;gravel;no;yes;170;yes
+Makuri Islands;Sprinter’s Playground;12.3;68;< 60;aero;no;yes;245;yes
+Makuri Islands;Suki’s Playground;18.5;150;< 60;aero;no;yes;365;yes
+Makuri Islands;Temples and Towers;33.4;319;< 90;;no;yes;650;yes
+Makuri Islands;Three Villages Loop;12.9;98;< 60;aero;no;yes;210;yes
+Makuri Islands;Turf N Surf;24.7;198;< 60;;no;yes;490;yes
+Makuri Islands;Twilight Harbor;7.1;37;< 30;aero;no;yes;135;yes
+Makuri Islands;Two Village Loop;13;88;< 60;aero;no;yes;255;yes
+Makuri Islands;Valley to Mountaintop;5.1;131;< 30;gravel;no;yes;100;yes
+Makuri Islands;Wandering Flats;25.2;146;< 60;aero;no;yes;515;yes
+New York;2022 Cycling Esports World Championship Route;55;943;;;yes;no;;no
+New York;Astoria Line 8;12;144;< 60;aero;no;yes;230;yes
+New York;Everything Bagel;34.3;545;> 90;light;no;yes;690;yes
+New York;Gotham Grind;9.3;96;< 30;;no;yes;190;yes
+New York;Gotham Grind Reverse;9.6;98;;;yes;no;;no
+New York;Grand Central Circuit;8.3;163;< 30;;no;yes;140;yes
+New York;Grand Central Circuit Reverse;9.3;167;;;yes;no;;no
+New York;Knickerbocker;22.7;365;< 90;;no;yes;450;yes
+New York;Knickerbocker Reverse;22.6;365;< 90;;no;yes;450;yes
+New York;Lady Liberty;12.6;206;< 60;;no;yes;240;yes
+New York;LaGuardia Loop;4.3;46;;;yes;no;;no
+New York;LaGuardia Loop Reverse;5.2;52;;;yes;no;;no
+New York;Mighty Metropolitan;20.5;321;< 90;;no;yes;400;yes
+New York;NYC KOM After Party;37;476;;;yes;no;;yes
+New York;Park Perimeter Loop;10.2;129;< 30;aero;no;yes;190;yes
+New York;Park Perimeter Reverse;9.9;126;;aero;yes;yes;195;no
+New York;Rising Empire;21.2;379;< 90;;no;yes;410;yes
+New York;The 6 Train;6.5;69;< 30;aero;no;yes;130;yes
+New York;The 6 Train Reverse;6.8;70;;aero;yes;no;;no
+New York;The Highline;20.5;382;< 60;;no;yes;210;yes
+New York;The Highline Reverse;21;382;;;yes;no;;no
+London;Classique;11.1;70;< 30;;no;yes;110;yes
+London;Classique Reverse;12.9;85;;;yes;yes;110;no
+London;Greater London 8;24.3;280;< 90;;no;yes;480;yes
+London;Greater London Flat;17.3;98;< 90;;no;yes;230;yes
+London;Greater London Loop;21.5;260;< 90;;no;yes;420;yes
+London;Greater London Loop Reverse;21.2;256;;;yes;no;;no
+London;Greatest London Flat;31;222;< 60;aero;no;yes;500;yes
+London;Greatest London Loop;26.1;360;> 90;;no;yes;510;yes
+London;Greatest London Loop Reverse;25.8;356;;;yes;no;;no
+London;Keith Hill After Party;36.7;435;;;yes;no;;yes
+London;Leith Hill After Party;42;439;;;yes;no;;no
+London;London 8;20.8;260;< 90;;no;yes;410;yes
+London;London 8 Reverse;20.5;256;;;yes;no;;no
+London;London Loop;15.3;235;< 60;;no;yes;300;yes
+London;London Loop Reverse;15;231;;;yes;no;;no
+London;Surrey Hills;44.1;1034;> 90;;no;yes;820;yes
+London;The London Pretzel;56.2;576;> 90;;no;yes;1100;yes
+London;The PRL FULL;173.8;2628;> 90;;no;yes;3460;no
+London;The PRL Half;69.6;1014;> 90;;no;yes;1380;yes
+London;Triple Loops;41.4;569;> 90;;no;yes;810;yes
+France;Casse-Pattes;23.8;155;< 90;aero;no;yes;460;yes
+France;Douce France;24.8;137;< 90;aero;no;yes;480;yes
+France;France Classic Fondo;146.4;1099;;;yes;no;;no
+France;La Reine;22.9;1205;> 90;light;no;yes;460;yes
+France;Petit Boucle;61.6;483;> 90;aero;no;yes;1220;yes
+France;R.G.V.;24.9;133;< 90;aero;no;yes;480;yes
+France;Roule Ma Poule;27.2;263;< 90;aero;no;yes;460;yes
+France;Tire-Bouchon;63.9;591;> 90;aero;no;yes;1220;yes
+France;Ven-Top;20.9;1535;> 90;light;no;yes;420;yes
+Innsbruck;2018 UCI Worlds Course Short Lap;23.9;496;> 90;;no;yes;470;yes
+Innsbruck;Achterbahn;47.7;990;> 90;;no;yes;950;yes
+Innsbruck;Innsbruck Continentals Hill Climb;12.9;480;;light;yes;no;;no
+Innsbruck;Innsbruck KOM After Party;37.2;658;;;yes;no;;no
+Innsbruck;Innsbruckring;9;78;< 30;;no;yes;170;yes
+Innsbruck;Lutscher;24.5;829;< 90;;no;yes;270;yes
+Innsbruck;Lutscher CCW;22.6;827;< 90;;no;yes;240;yes
+Richmond;Cobbled Climbs;9.5;136;< 30;;no;yes;180;yes
+Richmond;Cobbled Climbs Reverse;9.3;134;;;yes;no;;no
+Richmond;Libby Hill After Party;33.2;108;;;no;yes;;yes
+Richmond;Richmond Loop Around;42.5;550;;;no;yes;850;yes
+Richmond;Richmond Rollercoaster;17.2;170;;;yes;no;;no
+Richmond;Richmond UCI Reverse;16.3;158;< 60;;no;yes;325;yes
+Richmond;Richmond UCI Worlds;16.5;160;< 60;;no;yes;320;yes
+Richmond;The Fan Flats;9.3;40;< 30;;no;yes;100;yes
+Yorkshire;2019 UCI Worlds Harrogate Circuit;13.9;246;< 60;;no;yes;270;yes
+Yorkshire;Duchy Estate;4.7;70;< 30;aero;no;yes;60;yes
+Yorkshire;Harrogate Circuit Reverse;13.9;245;;;yes;no;;no
+Yorkshire;Queen’s Highway;5.7;82;< 30;aero;no;yes;60;yes
+Yorkshire;Queen’s Highway After Party;17.1;259;;;yes;yes;340;no
+Yorkshire;Royal Pump Room 8;27.7;490;> 90;;no;yes;550;yes
+Yorkshire;Tour Of Tewit Well;10.9;207;< 60;;no;yes;210;yes
+Yorkshire;Yorkshire Double Loops;29.6;548;;;yes;yes;580;no
+Scotland;City and the Sgurr;8.7;166;< 60;gravel;no;yes;120;yes
+Scotland;Glasgow Crit Circuit;3;33;< 30;aero;no;yes;60;yes
+Scotland;Glasgow Reverse;3;33;;;yes;no;;no
+Scotland;Loch Loop;8.1;71;< 30;aero;no;yes;160;yes
+Scotland;Rolling Highlands;14.1;106;< 30;aero;no;yes;180;yes
+Scotland;The Muckle Yin;23.7;282;< 90;aero;no;yes;470;yes
+Scotland;BREAk-fast Crits and Grits;22.1;243;;;no;yes;415;yes
+Crit City;Bell Lap;2.1;17;;aero;yes;no;;no
+Crit City;Downtown Dolphin;2;17;;aero;yes;no;;no
+Paris;Champs-Elysees;9.8;53;< 30;aero;no;yes;130;yes
+Paris;Letuce Express;10.2;65;< 30;aero;no;yes;130;yes
+Bologna;Time Trial Lap;8;230;;;yes;no;;no

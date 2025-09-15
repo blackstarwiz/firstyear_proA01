@@ -1,0 +1,14 @@
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\bin\Debug\net8.0\oefening.exe
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\bin\Debug\net8.0\oefening.deps.json
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\bin\Debug\net8.0\oefening.runtimeconfig.json
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\bin\Debug\net8.0\oefening.dll
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\bin\Debug\net8.0\oefening.pdb
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\obj\Debug\net8.0\oefening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\obj\Debug\net8.0\oefening.AssemblyInfoInputs.cache
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\obj\Debug\net8.0\oefening.AssemblyInfo.cs
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\obj\Debug\net8.0\oefening.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\obj\Debug\net8.0\oefening.dll
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\obj\Debug\net8.0\refint\oefening.dll
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\obj\Debug\net8.0\oefening.pdb
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\obj\Debug\net8.0\oefening.genruntimeconfig.cache
+C:\Users\jason\OneDrive\Desktop\01-PROGRAMMEREN AP 24-25\examens\examen-c#\oefening\obj\Debug\net8.0\ref\oefening.dll
