@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Examen_TweedeZit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1e3f33220eceb832a8aa1b72bf97e2c6fc2618d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Examen_TweedeZit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Examen_TweedeZit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
